@@ -2,8 +2,8 @@
 
 ## Цель
 Необходимо реализовать интерфейс изображенный ниже:
-- ![GitHub Logo](/Images/logo.png)
-- TODO: добавить изображений
+- <img src="/TA1Swift/Preview/Preview.png" width="320" height="716">
+- [Sketch файл](/TA1Swift/Preview/Preview.sketch)
 
 ## Инструменты и язык реализации
 - Swift (версии не ниже 5)
