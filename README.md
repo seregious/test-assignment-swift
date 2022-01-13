@@ -3,7 +3,7 @@
 ## Цель
 Необходимо реализовать интерфейс изображенный ниже:
 - <img src="/TA1Swift/Preview/Preview.png" width="320" height="716">
-- [Sketch файл](/TA1Swift/Preview/Preview.sketch)
+- [Sketch прототип](https://www.sketch.com/s/b7f4e69f-bea4-49eb-9cdd-65a4168bcdbb)
 
 ## Инструменты и язык реализации
 - Swift (версии не ниже 5)
